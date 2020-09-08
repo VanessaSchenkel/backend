@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": " src/index.js",
+  "main": "src/index.js",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon"
@@ -12,5 +12,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": "https://github.com/VanessaSchenkel/backend-conceitos.git",
+  "author": "VanessaSchenkel <v.s.schenkel@gmail.com>"
 }
